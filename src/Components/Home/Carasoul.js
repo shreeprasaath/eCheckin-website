@@ -17,16 +17,16 @@ const options = {
     responsive: {
         0:{
             items: 1,
-        };
+        },
         100:{
             items: 1,
-        };
+        },
         200:{
             items: 1,
-        };
+        },
         300:{
             items: 1,
-        };
+        },
         400: {
             items: 1,
         },
