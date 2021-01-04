@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/eCheckin-website/static/css/main.279e257f.chunk.css",
-    "main.js": "/eCheckin-website/static/js/main.6dcf4c5b.chunk.js",
-    "main.js.map": "/eCheckin-website/static/js/main.6dcf4c5b.chunk.js.map",
+    "main.js": "/eCheckin-website/static/js/main.d8046a78.chunk.js",
+    "main.js.map": "/eCheckin-website/static/js/main.d8046a78.chunk.js.map",
     "runtime-main.js": "/eCheckin-website/static/js/runtime-main.59e3f2ff.js",
     "runtime-main.js.map": "/eCheckin-website/static/js/runtime-main.59e3f2ff.js.map",
     "static/css/2.36cf7888.chunk.css": "/eCheckin-website/static/css/2.36cf7888.chunk.css",
@@ -32,6 +32,6 @@
     "static/css/2.36cf7888.chunk.css",
     "static/js/2.e4922f5f.chunk.js",
     "static/css/main.279e257f.chunk.css",
-    "static/js/main.6dcf4c5b.chunk.js"
+    "static/js/main.d8046a78.chunk.js"
   ]
 }
